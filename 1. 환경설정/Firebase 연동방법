@@ -1,0 +1,16 @@
+
+1. google에 firebase 검색하여 들어감
+
+2. 프로젝트 생성 (대략 1분 소요)
+
+3. 앱에 Firebase를 추가하여 시작하기 중 Flutter 선택
+
+4. Firebase CLI 를 설치하고 파이어베이스에 로그인
+   - Firebase CLI : https://firebase.google.com/docs/cli?hl=ko&authuser=0&_gl=1*8vjzka*_ga*MTA2MzM0NzAyNy4xNzE1NjU5NDQ3*_ga_CW55HF8NVT*MTcxNTY2Njc0MC4yLjEuMTcxNTY2Njc0Ny41My4wLjA.#install_the_firebase_cli
+
+5. 프로젝트 터미널에 명령어 입력
+   dart pub global active flutterfire_cli
+   futterfire configure --project=flutter3-train
+   -> 입력시 lib/firebase_options.dart 파일이 자동 생성됨
+
+6.
